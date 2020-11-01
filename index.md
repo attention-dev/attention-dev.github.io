@@ -1,15 +1,13 @@
-## Welcome to GitHub Pages
+## 曹雄（硕士）简历
 
-You can use the [editor on GitHub](https://github.com/aexiongcao/caoxiong.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 教育经历
+2017.09~2020.01 天津大学              电气自动化与信息工程学院  控制理论与控制工程   硕士
+2013.09~2017.06 河北工业大学          控制科学与工程学院        自动化              学士
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 工作经历
+2020.04~至今    中国电子科技集团公司   航天系统与应用专业部      计算机、信号处理     助理工程师
+                第五十四研究所        系统论证室     
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
